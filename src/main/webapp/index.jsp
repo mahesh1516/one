@@ -2332,7 +2332,7 @@ footer li a:hover{
 
 <div class="announcement">
 
-    <i class="fas fa-bolt"></i>
+    <em class="fas fa-bolt"></em>
 
     <span>
         <strong>FLASH SALE</strong>
@@ -2354,7 +2354,7 @@ footer li a:hover{
         class="menu-btn"
         id="menuBtn">
 
-        <i class="fas fa-bars"></i>
+        <em class="fas fa-bars"></em>
 
     </button>
 
