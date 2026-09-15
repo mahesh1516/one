@@ -21,6 +21,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
    ROOT
 ========================================================= */
 
+
 :root{
 
     --bg:#07090d;
@@ -2364,7 +2365,7 @@ footer li a:hover{
         class="logo">
 
         <div class="logo-mark">
-            <i class="fas fa-cube"></i>
+            <em class="fas fa-cube"></em>
         </div>
 
         NEXORA<span>.</span>
@@ -2407,7 +2408,7 @@ footer li a:hover{
             placeholder="Search products...">
 
         <button id="searchBtn">
-            <i class="fas fa-search"></i>
+            <em class="fas fa-search"></em>
         </button>
 
     </div>
