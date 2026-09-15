@@ -2420,7 +2420,7 @@ footer li a:hover{
             class="icon-btn"
             id="wishlistBtn">
 
-            <i class="far fa-heart"></i>
+            <em class="far fa-heart"></em>
 
             <span
                 class="count"
